@@ -2,20 +2,20 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986CC&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Code+Enthusiast;Problem+Solver;UI+UX+Designer;Continuous+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986CC&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Code+Enthusiast;Problem+Solver;UI+UX+Designer;Mobile+Developper;Continuous+Learner)](https://git.io/typing-svg)
 
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=RayaneBICABA&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" align="right" width="45%"/>
 
-## 💫 About Me
+## 💫About Me
 
-- 🔭 I'm currently working on **building scalable web applications**
-- 🌱 I'm currently learning **advanced cloud architecture**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **full stack development**
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/rayanebicaba)**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under a minute!**
+-  I'm currently working on **building scalable web applications**
+-  I'm currently learning **3D modelisation using Blender,Unity and also C#**
+-  I'm looking to collaborate on **open source projects**
+-  Ask me about **full stack development, web and mobile app design**
+-  How to reach me: **[LinkedIn](https://linkedin.com/in/rayanebicaba)**
+-  Fun fact: **👾 I sometimes dream that I'm coding**
 
 ## 🚀 Tech Stack
 
