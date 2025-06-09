@@ -1,148 +1,247 @@
-# <div align="center">🌟 Welcome to My Digital Universe 🌟</div>
+# Hi there, I'm Rayane BICABA 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=RAYANE%20BICABA&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;UI%2FUX+Designer+%F0%9F%8E%A8;Mobile+App+Developer+%F0%9F%93%B1;3D+Modeling+Enthusiast+%F0%9F%8C%90" alt="Typing Animation" />
 </div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Full+Stack+Architect+%F0%9F%9A%80;UI%2FUX+Visionary+%F0%9F%8E%A8;Mobile+Innovation+Expert+%F0%9F%93%B1;3D+Design+Enthusiast+%F0%9F%8C%90;Problem+Solving+Ninja+%F0%9F%A5%B7)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RayaneBICABA&theme=tokyonight&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
-
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me***
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-
-<br>
-
-- 🔭 **Currently architecting** next-generation scalable web applications
-- 🌱 **Mastering the art of** 3D modeling with Blender, Unity & C# ecosystem  
-- 👯 **Seeking collaboration on** groundbreaking open-source innovations
-- 💬 **Expert consultation on** Full-stack development, UI/UX magic & mobile excellence
-- 📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/rayanebicaba) | [Email](mailto:your.email@example.com)
-- ⚡ **Secret superpower:** I debug in my dreams and wake up with solutions! 🧠✨
-
-<br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Arsenal</b>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
-<span><b>Frontend Mastery</b></span><br>
-<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
-<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
-<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
-</td>
-
-<td align="center" width="25%">
-<span><b>Backend Power</b></span><br>
-<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/python.svg">
-<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg">
-<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/flask.svg">
-<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
-</td>
-
-<td align="center" width="25%">
-<span><b>Mobile Innovation</b></span><br>
-<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
-<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/dart.svg">
-<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
-<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/kotlin.svg">
-</td>
-
-<td align="center" width="25%">
-<span><b>Design & Tools</b></span><br>
-<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/figma.svg">
-<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/blender.svg">
-<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/unity.svg">
-<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-
-### 🏆 **Skill Mastery Levels**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-
-</div>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub Analytics</b>
-
-<div align="center">
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=RayaneBICABA&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Rayane's%20GitHub%20Stats&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats" width="100%"/>
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayaneBICABA&theme=tokyonight&hide_border=true&layout=compact&title_color=00D9FF&text_color=ffffff&bg_color=0D1117" alt="Top Languages" width="100%"/>
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RayaneBICABA&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&title_color=00D9FF" alt="GitHub Trophies"/>
-</div>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> <b>Connect & Collaborate</b>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rayanebicaba)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RayaneBICABA)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-url.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-### 💫 *"Code is poetry written in logic, design is poetry written in pixels"*
-
-<img src="https://komarev.com/ghpvc/?username=RayaneBICABA&style=for-the-badge&color=00D9FF&label=Profile+Views" alt="Profile Views"/>
-
-</div>
-
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25"> <b>Current Focus</b>
-
-```typescript
-const rayane = {
-    currentlyWorking: "Building next-gen scalable applications",
-    learning: ["3D Modeling with Blender", "Unity Game Development", "Advanced C#"],
-    collaborating: "Open-source innovations that change the world",
-    askMeAbout: ["Full-stack development", "UI/UX design", "Mobile app architecture"],
-    funFact: "I solve bugs in my sleep and wake up with eureka moments! 💡",
-    motto: "Create, Innovate, Inspire ✨"
-};
+```
+   ╭─────────────────────────────────────────────────────────╮
+   │  💻 Currently coding something awesome...               │
+   │  ☕ Powered by coffee and curiosity                     │
+   │  🎯 Building the future, one commit at a time          │
+   ╰─────────────────────────────────────────────────────────╯
 ```
 
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a passionate **Full Stack Developer** and **UI/UX Designer** based in Burkina Faso, with a love for creating beautiful, functional, and scalable applications. When I'm not coding, you'll find me crafting 3D models or exploring the latest in mobile development.
+
+- 🔭 Currently working on **next-generation web applications**
+- 🌱 Learning **3D modeling with Blender** and **Unity development**
+- 👯 Looking to collaborate on **innovative open-source projects**
+- 💬 Ask me about **React, Python, Flutter, or UI/UX design**
+- 📫 Reach me at: **[rayanebicaba.dev@gmail.com](mailto:rayanebicaba.dev@gmail.com)**
+- ⚡ Fun fact: **I debug code in my dreams and wake up with solutions!**
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Mobile & Game Development
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+### Design & Tools
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 💻 Coding Activity & Setup
+
+<div align="center">
+  
+### 🖥️ My Development Environment
+  
+```
+        ╭─────────────────────────────────────────╮
+        │  ╭─────────────────────────────────╮    │
+        │  │  > npm start                    │    │
+        │  │  > Server running on port 3000  │    │
+        │  │  > Compiling...                 │    │  ☕
+        │  │  > ✓ Compiled successfully!     │    │ ╱ ╲
+        │  ╰─────────────────────────────────╯    │╱   ╲
+        ╰─────────────────────────────────────────╯─────╯
+```
+
+### ⌨️ Languages I Speak Fluently
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=500&color=00D4AA&center=true&vCenter=true&multiline=true&width=500&height=120&lines=JavaScript+%7C%7C+TypeScript;Python+%7C%7C+Java+%7C%7C+C%23;React+%7C%7C+Flutter+%7C%7C+Unity;HTML+%7C%7C+CSS+%7C%7C+Node.js;Always+learning+new+things+%F0%9F%9A%80" alt="Programming Languages Animation" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RayaneBICABA&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayaneBICABA&layout=compact&theme=github_dark&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RayaneBICABA&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📈 Contribution Graph & Activity
+
+<div align="center">
+  
+### 🔥 My Coding Journey
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RayaneBICABA&theme=github-compact&hide_border=true&area=true&custom_title=Rayane's%20Contribution%20Graph" alt="Contribution Graph" />
+
+### 📅 This Year's Contributions
+<img src="https://ghchart.rshah.org/6366F1/RayaneBICABA" alt="Contribution Calendar" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RayaneBICABA&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```javascript
+const rayane = {
+  currentlyLearning: [
+    "Advanced 3D Modeling with Blender 🎨",
+    "Unity Game Development 🎮", 
+    "Cloud Architecture Patterns ☁️"
+  ],
+  currentlyBuilding: [
+    "Scalable Web Applications 🚀",
+    "Mobile-First UI Components 📱",
+    "Interactive 3D Experiences 🌐"
+  ],
+  dailyRoutine: [
+    "☕ Coffee++",
+    "💻 Code",
+    "🐛 Debug", 
+    "📚 Learn",
+    "🔄 Repeat"
+  ],
+  goals2025: [
+    "Contribute to Open Source 🌟",
+    "Master Full-Stack Architecture 🏗️",
+    "Create Impactful Digital Solutions 💡"
+  ]
+};
+
+console.log("Always learning, always growing! 🚀");
+// Life is a continuous deployment 🔄
+```
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rayanebicaba)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RayaneBICABA)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio-url.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayanebicaba.dev@gmail.com)
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+---
+
+## ⚡ Quick Stats
+
+<div align="center">
+
+```
+🎯 Total Commits: 500+        📦 Total PRs: 50+
+🔥 Current Streak: 25 days    ⭐ Total Stars: 100+
+💻 Lines of Code: 10,000+     🍴 Total Forks: 25+
+```
+
+### 📊 Weekly Development Breakdown
+
+```text
+JavaScript   12 hrs 30 mins  ████████████▓░░░░░░░░   65.5%
+Python       3 hrs 15 mins   ███▒░░░░░░░░░░░░░░░░░   17.2%
+TypeScript   1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░    9.3%
+CSS          54 mins         █░░░░░░░░░░░░░░░░░░░░    4.8%
+Other        37 mins         ▓░░░░░░░░░░░░░░░░░░░░    3.2%
+```
+
 </div>
 
 ---
 
 <div align="center">
-  <b>⭐️ From <a href="https://github.com/RayaneBICABA">Rayane BICABA</a> with 💙</b>
+  
+![Profile Views](https://komarev.com/ghpvc/?username=RayaneBICABA&style=flat-square&color=blueviolet)
+
+**Thanks for visiting! ⭐️ Star some repositories if you find them interesting!**
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💫 Latest Activity
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=🔨+Just+pushed+a+new+feature;🐛+Fixed+that+annoying+bug;📚+Updated+documentation;🚀+Deployed+to+production;☕+Time+for+another+coffee" alt="Activity Animation" />
+
+</div>
+
+---
+
+<div align="center">
+  <i>⚡ "Code is poetry written in logic, design is poetry written in pixels" ⚡</i>
+  
+  <br><br>
+  
+  ```
+  while(alive) {
+    eat();
+    code();
+    sleep();
+    repeat();
+  }
+  ```
+  
 </div>
