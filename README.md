@@ -21,9 +21,9 @@
 ```typescript
 const rayane = {
   location: "Burkina Faso 🇧🇫",
-  role: "Full Stack Developer & UI/UX Designer",
+  role: "Full Stack Developer , UI/UX Designer & mobile developper",
   passions: ["Web Development", "Mobile Apps", "3D Modeling", "User Experience"],
-  currentFocus: ["React", "Python", "Flutter", "Blender"],
+  currentFocus: ["Java", "Python", "Flutter", "Blender"],
   contact: "rayanebicaba.dev@gmail.com"
 };
 ```
@@ -31,8 +31,10 @@ const rayane = {
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,python,flutter,nodejs,tailwind,figma,blender,unity,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,tailwind,laravel,git,vite,nodejs,python,flask&theme=dark" />
 </p>
+
+
 
 ## 📊 GitHub Stats
 
@@ -58,7 +60,7 @@ const rayane = {
 - 🔭 Building **next-generation web applications**
 - 🌱 Learning **3D modeling with Blender**
 - 👯 Open to collaborate on **innovative projects**
-- 💬 Ask me about **React, Python, Flutter, or UI/UX design**
+- 💬 Ask me about **Java, Python, Flutter, or UI/UX design**
 
 ## 🤝 Let's Connect
 
@@ -66,9 +68,7 @@ const rayane = {
   <a href="mailto:rayanebicaba.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-667EEA?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/rayanebicaba">
-    <img src="https://img.shields.io/badge/LinkedIn-667EEA?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+ 
   <a href="https://github.com/RayaneBICABA">
     <img src="https://img.shields.io/badge/GitHub-667EEA?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -81,5 +81,5 @@ const rayane = {
   
   <br><br>
   
-  <em>"Code is poetry written in logic" ✨</em>
+  <em>💻“In the silence of the terminal, I speak in logic, and the machine obeys.”🔥</em>
 </div>
