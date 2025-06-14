@@ -28,10 +28,36 @@ const rayane = {
 };
 ```
 
-## 🛠 Tech Stack
+## 🛠 Tech Arsenal
 
+### 💻 Operating Systems & Shell
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,tailwind,laravel,git,vite,nodejs,python,flask&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" />
+</p>
+
+### 🚀 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,dart&theme=dark" />
+</p>
+
+### 🏗️ Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,flask,laravel,flutter,tailwind&theme=dark" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,supabase&theme=dark" />
+</p>
+
+### 🔧 Development Tools & Runtime
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,vite,nodejs" />
+</p>
+
+### 🎨 Design and Prototype
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ## 📊 GitHub Stats
