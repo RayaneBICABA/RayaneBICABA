@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full+Stack+Architect;Mobile+Innovation+Expert;UI%2FUX+Creative+Designer;Digital+Problem+Solver" alt="Dynamic Roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full+Stack+Architect;Mobile+Innovation+Expert;UI%2FUX+Creative+Designer" alt="Dynamic Roles" />
 </div>
 
 <br><br><br> 
