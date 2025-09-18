@@ -1,64 +1,98 @@
-# Hello, I'm Rayane BICABA 👋
+# 🚀 Welcome to my Digital Universe
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;UI%2FUX+Designer;Mobile+App+Developer" alt="Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=RAYANE%20BICABA&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Tomorrow's%20Digital%20Experiences&descAlignY=55&descSize=18" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full+Stack+Architect;Mobile+Innovation+Expert;UI%2FUX+Creative+Designer;Digital+Problem+Solver" alt="Dynamic Roles" />
 </div>
 
-<br>
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" alt="Futuristic Coding" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Animated Banner" />
+</div>
 
 <p align="center">
-  <em>Passionate developer from Burkina Faso, crafting beautiful and functional digital experiences</em>
+  <img src="https://img.shields.io/badge/🌍_Based_in-Burkina_Faso-FF6B6B?style=for-the-badge&labelColor=1a1a2e&color=16537e" />
+  <img src="https://img.shields.io/badge/🎯_Focus-Innovation-00D9FF?style=for-the-badge&labelColor=1a1a2e&color=16537e" />
+  <img src="https://img.shields.io/badge/💡_Passion-Problem_Solving-9D4EDD?style=for-the-badge&labelColor=1a1a2e&color=16537e" />
 </p>
 
 ---
 
-## ✨ About Me
+## 🎭 Meet the Human Behind the Code
 
-```typescript
-const rayane = {
-  location: "Burkina Faso 🇧🇫",
-  role: "Full Stack Developer , UI/UX Designer & mobile developper",
-  passions: ["Web Development", "Mobile Apps", "3D Modeling", "User Experience"],
-  currentFocus: ["Java", "Python", "Flutter", "Blender"],
-  contact: "rayanebicaba.dev@gmail.com"
-};
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
+
+```javascript
+class RayaneBicaba {
+  constructor() {
+    this.name = "Rayane BICABA";
+    this.location = "🇧🇫 Ouagadougou, Burkina Faso";
+    this.mindset = "Code is poetry, bugs are just plot twists";
+    this.mission = "Turning caffeine into clean code since 2020";
+    this.superpower = "Making complex things look simple";
+    this.currentVibes = ["Building the future", "Learning 3D magic", "Debugging reality"];
+    this.funFact = "I speak 3 languages: French, English, and Java 😄";
+  }
+
+  getCurrentStatus() {
+    return {
+      coding: "🔥 Always",
+      learning: "📚 Every day", 
+      coffee: "☕ Essential",
+      availability: "💬 Open for collaboration"
+    };
+  }
+
+  getContactInfo() {
+    return "rayanebicaba.dev@gmail.com";
+  }
+}
+
+const developer = new RayaneBicaba();
+console.log(developer.getCurrentStatus()); // { coding: "🔥 Always", ... }
 ```
 
-## 🛠 Tech Arsenal
+## ⚡ My Digital Arsenal
 
-### 💻 Operating Systems & Shell
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" />
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7423ec.gif" width="400" />
+</div>
 
-### 🚀 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,dart&theme=dark" />
-</p>
+### 🧠 Programming Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,bash&theme=dark&perline=3" />
+</div>
 
-### 🏗️ Frameworks & Libraries
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,flask,laravel,flutter,tailwind&theme=dark" />
-</p>
+### 🏗️ Frameworks & Technologies  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=spring,flutter,react&theme=dark&perline=3" />
+</div>
 
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,supabase&theme=dark" />
-</p>
+### 🗃️ Databases & Storage
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark&perline=3" />
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</div>
 
-### 🔧 Development Tools & Runtime
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vite,nodejs" />
-</p>
+### 🎨 Design Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+</div>
 
-### 🎨 Design and Prototype
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500" />
+</div>
 
 ## 📊 GitHub Stats
 
