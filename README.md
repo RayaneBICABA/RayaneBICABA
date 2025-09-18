@@ -8,6 +8,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full+Stack+Architect;Mobile+Innovation+Expert;UI%2FUX+Creative+Designer;Digital+Problem+Solver" alt="Dynamic Roles" />
 </div>
 
+<div></div>
+
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" alt="Futuristic Coding" />
 </div>
