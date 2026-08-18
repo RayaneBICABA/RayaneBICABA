@@ -55,7 +55,7 @@
 </td>
 <td width="50%" valign="top" align="center">
 
-<img src="https://github-readme-streak-stats-one-rust-44.vercel.app/?user=PANK4SS&theme=transparent&hide_border=true&background=00000000&stroke=BDF400&ring=BDF400&fire=BDF400&currStreakLabel=BDF400&sideNums=BDF400&currStreakNum=BDF400&sideLabels=BDF400&dates=BDF400" alt="GitHub Streak" width="100%">
+<img src="https://streak-stats.demolab.com/?user=PANK4SS&theme=transparent&hide_border=true&background=00000000&stroke=BDF400&ring=BDF400&fire=BDF400&currStreakLabel=BDF400&sideNums=BDF400&currStreakNum=BDF400&sideLabels=BDF400&dates=BDF400" alt="GitHub Streak" width="100%">
 
 </td>
 </tr>
